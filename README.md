@@ -1,0 +1,1 @@
+# 7Semi-HMC6343-3-Axis-Digital-Compass-Module-with-Tilt-Compensation-I2C-
